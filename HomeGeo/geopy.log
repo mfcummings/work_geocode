@@ -1,0 +1,30 @@
+__main__:2019-02-18 13:39:46,200:name 'delta' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mfcAdmin\source\repos\HomeGeo\HomeGeo\AutoGeoCode.py", line 30, in <module>
+    df = delta.delta()
+NameError: name 'delta' is not defined
+__main__:2019-02-18 13:39:46,202:Finished Geocoding this batch
+__main__:2019-02-18 13:41:21,638:name 'delta' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mfcAdmin\source\repos\HomeGeo\HomeGeo\AutoGeoCode.py", line 30, in <module>
+    df = delta.delta()
+NameError: name 'delta' is not defined
+__main__:2019-02-18 13:41:21,639:Finished Geocoding this batch
+__main__:2019-02-18 13:41:41,268:name 'delta' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mfcAdmin\source\repos\HomeGeo\HomeGeo\AutoGeoCode.py", line 30, in <module>
+    df = delta.delta()
+NameError: name 'delta' is not defined
+__main__:2019-02-18 13:41:41,270:Finished Geocoding this batch
+__main__:2019-02-18 13:42:50,669:name 'delta' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mfcAdmin\source\repos\HomeGeo\HomeGeo\AutoGeoCode.py", line 30, in <module>
+    df = delta.delta()
+NameError: name 'delta' is not defined
+__main__:2019-02-18 13:42:50,671:Finished Geocoding this batch
+__main__:2019-02-18 13:43:47,619:name 'delta' is not defined
+Traceback (most recent call last):
+  File "C:\Users\mfcAdmin\source\repos\HomeGeo\HomeGeo\AutoGeoCode.py", line 30, in <module>
+    df = delta.delta()
+NameError: name 'delta' is not defined
+__main__:2019-02-18 13:43:47,621:Finished Geocoding this batch
